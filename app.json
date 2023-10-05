@@ -98,6 +98,7 @@
       },
       "FQDN": {
           "description": "Read the readme for more info about this var  **Leave Empty for heroku**",
+          "value":""
           "required": false
       },
       "name": {
