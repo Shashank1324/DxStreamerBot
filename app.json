@@ -28,27 +28,33 @@
       "API_ID": {
           "description": "Get this value from https://my.telegram.org",
           "value":"11760418"
+          "required": false
       },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"
-          "value":"1087bd9fc871216be0e86287e5c50ac3"
+          "value":"1087bd9fc871216be0e86287e5c50ac3"          "required": false
       },
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather"
           "value":"6463692735:AAEGPGQuP4tIUwJ7FSBay8Y52wCW9MUFpU8"
+          "required": false
+          
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
           "value":"-1001979351642"
+          "required": false
           
       },
       "DATABASE_URL": {
           "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
           "value":"mongodb+srv://Shashanklssss:shashank.ls1324@cluster0.ctzkp4x.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
+          "required": false
       },
       "OWNER_ID": {
           "description": "Your Telegram User ID  like 1234509"
           "value":"1904953726"
+          "required": false
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -63,6 +69,7 @@
       "OWNER_USERNAME": {
           "description": "Enter your username without @  example  LazyDeveloper."
           "value":"Uuuuiioopg"
+          "required": false
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
