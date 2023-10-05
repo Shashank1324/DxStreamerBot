@@ -27,19 +27,19 @@
       },
       "API_ID": {
           "description": "Get this value from https://my.telegram.org",
-          "value":""
+          "value":"11760418"
       },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"
-          "value":""
+          "value":"1087bd9fc871216be0e86287e5c50ac3"
       },
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather"
-          "value":""
+          "value":"6463692735:AAEGPGQuP4tIUwJ7FSBay8Y52wCW9MUFpU8"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
-          "value":""
+          "value":"-1001979351642"
           
       },
       "DATABASE_URL": {
@@ -48,7 +48,7 @@
       },
       "OWNER_ID": {
           "description": "Your Telegram User ID  like 1234509"
-          "value":""
+          "value":"1904953726"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -62,7 +62,7 @@
       },
       "OWNER_USERNAME": {
           "description": "Enter your username without @  example  LazyDeveloper."
-          "value":""
+          "value":"Uuuuiioopg"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
@@ -98,7 +98,6 @@
       },
       "FQDN": {
           "description": "Read the readme for more info about this var  **Leave Empty for heroku**",
-          "value":""
           "required": false
       },
       "name": {
