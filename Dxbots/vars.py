@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Var(object):
-    MULTI_CLIENT = False
+ MULTI_CLIENT = False
  API_ID = environ.get('API_ID',"11760418") 
  API_HASH = environ.get('API_HASH',"1087bd9fc871216be0e86287e5c50ac3") 
  BOT_TOKEN = environ.get('BOT_TOKEN',"6463692735:AAEGPGQuP4tIUwJ7FSBay8Y52wCW9MUFpU8")
