@@ -16,8 +16,6 @@ services:
         sync: false
       - key: BIN_CHANNEL
         sync: false
-      - key: UPDATES_CHANNEL
-        sync: false
       - key: OWNER_USERNAME
         sync: false
       - key: OWNER_ID
